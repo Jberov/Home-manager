@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1591107140 source:d:\new folder\ПИК2\Курсова\finals\source.c
+	"Header.h"
+
+1591107140 d:\new folder\ПИК2\Курсова\finals\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1591107455 source:d:\new folder\ПИК2\Курсова\finals\main.c
+	"Header.h"
+
